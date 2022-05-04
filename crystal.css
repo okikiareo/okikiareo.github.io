@@ -85,7 +85,7 @@
 }
 
 .text-logo p{
-    margin-top:15px;
+    margin-top:30px;
     margin-bottom:7px;
     font-size:18px;
     line-height:20px;
@@ -100,12 +100,12 @@
     }
 
     .features-desc .features-text {
-        font-size: 18px;
+        font-size: 17px;
 
     }
 
     .sidenav {
-        width: 100px !important;
+        width: 110px !important;
     }
 }
 
@@ -166,7 +166,7 @@
 
 .sidenav ul li a {
     text-decoration: none;
-    color: #fff;
+    color: #000;
     font-size: 13px;
     font-weight:bold;
     font-family: sans-serif;
@@ -500,7 +500,7 @@ hr {
     }
 
     .testimonial-row p {
-        font-size: 18px;
+        font-size: 17px;
     }
 
     .service-desc h3 {
@@ -602,7 +602,7 @@ hr {
     .footer-left,
     .footer-right {
         flex-basis: 100%;
-        font-size: 18px;
+        font-size: 17px;
     }
 
     .footer-right {
