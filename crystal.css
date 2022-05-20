@@ -105,7 +105,7 @@
     }
 
     .sidenav {
-        width: 100px !important;
+        width: 115px !important;
     }
 }
 
@@ -160,7 +160,7 @@
 
 .sidenav ul li {
     list-style: none;
-    margin: 30px 20px;
+    margin: 30px 15px;
     padding-top: 30px;
 }
 
@@ -449,7 +449,7 @@ hr {
 
 
 .user-info small {
-    color: #0f5e56;
+    color: #0744c76;
 }
 
 .testimonial-row:hover {
@@ -500,7 +500,7 @@ hr {
     }
 
     .testimonial-row p {
-        font-size: 17px;
+        font-size: 16px;
     }
 
     .service-desc h3 {
@@ -602,7 +602,7 @@ hr {
     .footer-left,
     .footer-right {
         flex-basis: 100%;
-        font-size: 17px;
+        font-size: 16px;
     }
 
     .footer-right {
@@ -620,31 +620,20 @@ hr {
     }
 
     .social-links p {
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .user-info h4 {
-        font-size: 20px;
+        font-size: 17px;
     }
 
     .user-info small {
-        font-size: 17px;
+        font-size: 15px;
     }
+     .footer-row h1{
+     font-size: 20px;
+ }  
+ .hs h1{
+     font-size: 26px;
+ }
 }
-/*icons*/
-/*.icon {
-width: 50px;
-height:50px;
-background-color: #009688;
-border-radius:50%;
-justify-content: center;
-cursor: pointer;
-margin: 0 auto;
-margin-bottom: 1rem;
-
-}
-.icon:hover{
-    transform: rotate(360deg) ;
-    transition: 0.5s;
-    
-}*/
